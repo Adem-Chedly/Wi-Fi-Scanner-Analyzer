@@ -243,7 +243,7 @@ SOFTWARE.
 
 - **Issues**: Please report bugs on the GitHub Issues page
 - **Questions**: Open a discussion on GitHub Discussions
-- **Email**: your.email@example.com
+- **Email**: chedlya919@gmail.com
 
 ## 🙏 Acknowledgments
 
